@@ -1,31 +1,33 @@
 
-### 📘 2. Decisionsetex Analysis
+---
+
+### 📁 2. `Decisionsetex_Analysis.ipynb`
 
 ```markdown
-# 🧠 Decisionsetex Dataset Analysis
+# 🧠 Decisionsetex Data Analysis
 
-This notebook dives deep into a structured dataset, extracting meaningful conclusions to assist in decision making and classification.
+A quick and effective exploratory data analysis (EDA) on a structured decision-making dataset. Designed to detect relationships in features and prepare for classification tasks.
 
-## 🔍 Key Features
+## 🔎 Key Focus Areas
 
-- ✅ Data cleaning & preprocessing
-- 📈 Feature distribution analysis
-- 🧪 Label vs Feature relationships
-- 🎯 Target classification prep
+- Data preparation
+- Visualization of feature distributions
+- Binary classification analysis
+- Correlation and trend detection
 
-## 📦 Libraries Used
+## 🛠 Tools
 
 - pandas
 - matplotlib
 - seaborn
 
-## 📌 Use Cases
+## 💡 Who Is It For?
 
-- Binary classification prep
-- Pattern recognition in categorical attributes
-- Feature engineering reference
+- Beginners practicing EDA
+- Anyone prepping datasets for classification
+- Students exploring decision systems
 
-## ⚙️ Run It Locally
+## 🏃‍♂️ Quick Start
 
 ```bash
 git clone https://github.com/your-username/Decisionsetex_Analysis.git
