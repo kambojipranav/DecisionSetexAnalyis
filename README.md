@@ -1,6 +1,4 @@
 
----
-
 ### 📘 2. Decisionsetex Analysis
 
 ```markdown
